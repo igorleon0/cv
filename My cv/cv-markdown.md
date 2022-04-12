@@ -40,8 +40,8 @@ Programa da Oracle e Alura, com projetos a serem desenvolvidos ao decorrer do cu
 
 Manutenção preventiva e corretiva de computadores e notebooks.
 
-* Formatação (Troca de Sistema Operacional, Restauração do sistema).
-* Troca de periféricos (CPU, Processador, Placa mãe, etc..).
+* Formatação (Troca de sistema operacional, restauração do sistema).
+* Troca de periféricos (CPU, processador, placa mãe, etc..).
 * Limpeza de componentes.
 
 #
