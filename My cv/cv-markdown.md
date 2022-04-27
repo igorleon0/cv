@@ -51,6 +51,14 @@ Manutenção preventiva e corretiva de computadores e notebooks.
 * Cursando Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília (UCB) (2022 - 01/2024).
 * Inglês técnico.
 
+### Educação Complementar ###
+
+***Java primeiros passos: Lógica de Programação e Algoritmos | Udemy | Emitido em Jan/2022***
+
+* Lógica de programação utilizando Java.
+* Estrutura sequencial, condicional e repetitiva.
+* Vetores e matrizes (arrays).
+
 ## Pessoal ###
 
 * Gosto muito de tecnologia, sempre atento a novidades, e buscando conhecer e aprender ferramentas novas.
